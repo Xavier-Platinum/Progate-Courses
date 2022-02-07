@@ -4,10 +4,7 @@ body {
   
   li {
     list-style: none;
-    float: left;
-    /* Change the top & bottom padding to 33px, and left & right padding to 20px */
-    padding: 33px 20px;
-    
+    /* Move the following 2 lines to around line 25 */
   }
   
   .header {
@@ -19,9 +16,13 @@ body {
   .header-logo {
     float: left;
     font-size: 36px;
-    /* Change the top & bottom padding to 20px, and left & right padding to 40px */
     padding: 20px 40px;
-    
+  }
+  
+  /* Add CSS for <li> tags within header-list */
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
   }
   
   .main {

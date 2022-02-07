@@ -24,26 +24,17 @@ body {
   }
   
   .main {
-    /* Remove CSS for background-color */
-    /* Remove CSS for height */
-    /* Change the top & bottom padding to 100px, and left & right padding to 80px */
     padding: 100px 80px;
-    
-    
   }
   
-  /* Change the font-size of <h1> tags within copy-container */
   .copy-container h1 {
     font-size: 140px;
   }
   
-  
-  /* Change the font-size of <h2> tags within copy-container */
   .copy-container h2 {
     font-size: 60px;
   }
   
-  /* Change the color of <span> tags within copy-container */
   .copy-container span {
     color: #ff4a4a;
   }

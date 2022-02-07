@@ -4,20 +4,24 @@ body {
   
   li {
     list-style: none;
-    /* Change the float property to left */
     float: left;
+    /* Change the top & bottom padding to 33px, and left & right padding to 20px */
+    padding: 33px 20px;
     
   }
   
   .header {
-    background-color: #f7f2b4;
+    background-color: #26d0c9;
+    color: #fff;
     height: 90px;
   }
   
-  /* Change header-logo's font-size to 36px, and float property to left */
   .header-logo {
-    font-size: 36px;
     float: left;
+    font-size: 36px;
+    /* Change the top & bottom padding to 20px, and left & right padding to 40px */
+    padding: 20px 40px;
+    
   }
   
   .main {
@@ -29,3 +33,4 @@ body {
     background-color: #ceccf3;
     height: 270px;
   }
+  

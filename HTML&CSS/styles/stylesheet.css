@@ -24,36 +24,46 @@ body {
   }
   
   .main {
-    background-color: #bdf7f1;
-    height: 600px;
+    /* Remove CSS for background-color */
+    /* Remove CSS for height */
+    /* Change the top & bottom padding to 100px, and left & right padding to 80px */
+    padding: 100px 80px;
+    
+    
+  }
+  
+  /* Change the font-size of <h1> tags within copy-container */
+  .copy-container h1 {
+    font-size: 140px;
+  }
+  
+  
+  /* Change the font-size of <h2> tags within copy-container */
+  .copy-container h2 {
+    font-size: 60px;
+  }
+  
+  /* Change the color of <span> tags within copy-container */
+  .copy-container span {
+    color: #ff4a4a;
   }
   
   .footer {
-    /* Change the background-color to #2f5167 */
     background-color: #2f5167;
-    
-    /* Change the color to #fff */
     color: #fff;
-    
-    /* Change the height to 120px */
     height: 120px;
-    /* Change the padding for all sides to 40px */
     padding: 40px;
-    
   }
   
-  /* Change footer-logo's font-size and float property */
   .footer-logo {
-    font-size: 32px;
     float: left;
+    font-size: 32px;
   }
   
-  /* Change footer-list's float property */
   .footer-list {
     float: right;
   }
   
-  /* Add CSS for <li> tags within footer-list */
   .footer-list li {
     padding-bottom: 20px;
   }

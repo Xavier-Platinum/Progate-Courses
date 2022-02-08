@@ -70,18 +70,33 @@ body {
     margin-right: 5px;
   }
   
-  /* Add CSS for <header> tags */
   header {
     height: 65px;
     width: 100%;
     background-color: rgba(34, 49, 52, 0.9);
   }
   
-  
-  /* Add CSS for logo */
   .logo {
     width: 124px;
     margin-top: 20px;
+  }
+  
+  /* Add CSS for header-left */
+  .header-left {
+    float: left;
+  }
+  
+  
+  /* Add CSS for header-right */
+  .header-right {
+    float: right;
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+  
+  
+  /* Add CSS for header-right on hover */
+  .header-right:hover {
+    background-color: rgba(255, 255, 255, 0.5);
   }
   
   

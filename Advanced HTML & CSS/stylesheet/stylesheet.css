@@ -106,6 +106,8 @@ body {
     height: 500px;
     padding-bottom: 80px;
     background-color: #f7f7f7;
+    /* Change the text-align property to center */
+    text-align: center;
   }
   
   .heading {
@@ -118,10 +120,33 @@ body {
     font-weight: normal;
   }
   
-  /* Add CSS for lesson */
   .lesson {
     float: left;
     width: 25%;
+  }
+  
+  /* Add CSS for lesson-icon */
+  .lesson-icon {
+    position: relative;
+  }
+  
+  
+  /* Add CSS for <p> tags inside lesson-icon */
+  .lesson-icon p {
+    position: absolute;
+    top: 90px;
+    width: 100%;
+    color: white;
+  }
+  
+  
+  /* Add CSS for txt-contents */
+  .txt-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #b3aeb5;
   }
   
   

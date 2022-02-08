@@ -88,7 +88,6 @@ body {
   .header-right {
     float: right;
     background-color: rgba(255, 255, 255, 0.3);
-    /* Change the transition property */
     transition: all 0.5s;
   }
   
@@ -96,13 +95,32 @@ body {
     background-color: rgba(255, 255, 255, 0.5);
   }
   
-  /* Add CSS for <a> tags inside header-right */
   .header-right a {
-    display: block;
     line-height: 65px;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 0 25px;
     color: white;
+    display: block;
+  }
+  
+  /* Add CSS for lesson-wrapper */
+  .lesson-wrapper {
+    height: 500px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+  }
+  
+  
+  /* Add CSS for heading */
+  .heading {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color: #5f5d60;
+  }
+  
+  
+  /* Add CSS for <h2> tags inside heading */
+  .heading h2 {
+    font-weight: normal;
   }
   
   

@@ -160,10 +160,27 @@ header {
   box-shadow: 0 7px #1a7940;
 }
 
-/* Add CSS for message when it's clicked */
 .message:active {
-  box-shadow: none;
   position: relative;
   top: 7px;
+  box-shadow: none;
+}
+
+/* Add CSS for <img> tags inside the <footer> */
+footer img {
+  width: 125px;
+}
+
+
+/* Add CSS for <p> tags inside the <footer> */
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+
+/* Add CSS for <footer> tags */
+footer {
+  padding-top: 30px;
 }
 

@@ -37,4 +37,6 @@
             -  canceling CSS
             -  Usage of Position relative
             -  Pressing a button
+        Lesson 17 The footer
+            -  
     ```

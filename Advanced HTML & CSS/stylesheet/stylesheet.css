@@ -20,7 +20,6 @@ body {
     color: white;
   }
   
-  /* Add CSS for <h1> tags within top-wrapper */
   .top-wrapper h1 {
     opacity: 0.7;
     font-size: 45px;
@@ -28,11 +27,50 @@ body {
     margin-bottom: 10px;
   }
   
-  
-  /* Add CSS for <p> tags within top-wrapper */
   .top-wrapper p {
     opacity: 0.7;
     margin-bottom: 3px;
+  }
+  
+  /* Add CSS for btn */
+  .btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+  }
+  
+  
+  /* Add CSS for signup */
+  .signup {
+    background: #239b76;
+  }
+  
+  
+  /* Add CSS for facebook */
+  .facebook {
+    background-color: #3b5998;
+    margin-right: 10px;
+  }
+  
+  
+  /* Add CSS for twitter */
+  .twitter {
+    background-color: #55acee;
+  }
+  
+  
+  /* Add CSS for btn-wrapper */
+  .btn-wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  
+  /* Add CSS for <p> tags inside btn-wrapper */
+  .btn-wrapper p {
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
   
   

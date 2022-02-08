@@ -143,15 +143,23 @@ header {
   color: #b3aeb5;
 }
 
-/* Add CSS for message */
-.message {
-  background-color: #5dca88;
-  padding: 15px 40px;
+/* Add CSS for message-wrapper */
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
 }
 
 
-/* Add CSS for <h3> tags inside heading */
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  /* Change the cursor property to pointer */
+  cursor: pointer;
+  /* Change the box-shadow property */
+  box-shadow: 0 7px #1a7940;
+}
+
 .heading h3 {
   font-weight: normal;
 }
-

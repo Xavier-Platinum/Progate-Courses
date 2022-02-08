@@ -29,4 +29,8 @@
             -  Overlaping elements 
             -  Position Absolute
             -  position relative
+        Lesson 15 3D Designs with CSS
+            -  Box-Shadow (HR/Length VR/Length Color)
+            -  Cursor
+            -  
     ```

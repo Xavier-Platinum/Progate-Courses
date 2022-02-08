@@ -89,7 +89,7 @@ body {
     float: right;
     background-color: rgba(255, 255, 255, 0.3);
     /* Change the transition property */
-    transition: 0.5;
+    transition: all 0.5s;
   }
   
   .header-right:hover {

@@ -25,4 +25,8 @@
             -  overlapping elements
             -  position absolute
             -  position relative
+        Lesson 14 The Layout of the Message Section
+            -  Overlaping elements 
+            -  Position Absolute
+            -  position relative
     ```

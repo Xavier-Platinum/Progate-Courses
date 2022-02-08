@@ -39,4 +39,8 @@
             -  Pressing a button
         Lesson 17 The footer
             -  
+        Lesson 18 Fixing the Header
+            -  Position Fixed
+            -  Stack order Elements
+            - Z-index
     ```

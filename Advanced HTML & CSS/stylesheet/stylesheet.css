@@ -74,6 +74,11 @@ header {
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
+  /* Change the position property to fixed, and top property to 0 */
+  position: fixed;
+  top: 0;
+  /* Change the z-index property to 10 */
+  z-index: 10;
 }
 
 .logo {
@@ -166,21 +171,15 @@ header {
   box-shadow: none;
 }
 
-/* Add CSS for <img> tags inside the <footer> */
 footer img {
   width: 125px;
 }
 
-
-/* Add CSS for <p> tags inside the <footer> */
 footer p {
   color: #b3aeb5;
   font-size: 12px;
 }
 
-
-/* Add CSS for <footer> tags */
 footer {
   padding-top: 30px;
 }
-

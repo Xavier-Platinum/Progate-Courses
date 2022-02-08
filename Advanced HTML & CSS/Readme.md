@@ -44,3 +44,6 @@
             -  Stack order Elements
             - Z-index
     ```
+
+# Using the Inspect Tools in Chrome on Developer mode
+    ['Doc_Link']("https://docs.google.com/document/d/1q09BFH4TpNbvjqioXWqZtOxjXTonI3rbQhPtqnHaLBo/edit?usp=sharing")

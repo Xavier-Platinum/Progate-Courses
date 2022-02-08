@@ -18,7 +18,6 @@ body {
     background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
     background-size: cover;
     color: white;
-    /* Change the text-align property to center */
     text-align: center;
   }
   
@@ -39,15 +38,12 @@ body {
     color: white;
     display: inline-block;
     opacity: 0.8;
-    /* Change the border-radius to 4px */
     border-radius: 4px;
   }
   
-  /* Add CSS for btn on hover */
   .btn:hover {
     opacity: 1;
   }
-  
   
   .signup {
     background-color: #239b76;
@@ -69,4 +65,11 @@ body {
   .btn-wrapper p {
     margin: 10px 0;
   }
+  
+  /* Change fa's margin-right to 5px */
+  .fa {
+    margin-right: 5px;
+  }
+  
+  
   

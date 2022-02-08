@@ -32,5 +32,9 @@
         Lesson 15 3D Designs with CSS
             -  Box-Shadow (HR/Length VR/Length Color)
             -  Cursor
-            -  
+        Lesson 16 Applying CSS on Click
+            -  :active
+            -  canceling CSS
+            -  Usage of Position relative
+            -  Pressing a button
     ```

@@ -17,4 +17,8 @@
         Lesson 11
             -  font-weight
             -  
+        Lesson 12 Aligning Lessons
+            -  Specifying size with %
+            -  lessons layout
+            -  
     ```

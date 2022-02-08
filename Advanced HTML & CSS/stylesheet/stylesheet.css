@@ -102,25 +102,26 @@ body {
     display: block;
   }
   
-  /* Add CSS for lesson-wrapper */
   .lesson-wrapper {
     height: 500px;
     padding-bottom: 80px;
     background-color: #f7f7f7;
   }
   
-  
-  /* Add CSS for heading */
   .heading {
     padding-top: 60px;
     padding-bottom: 30px;
     color: #5f5d60;
   }
   
-  
-  /* Add CSS for <h2> tags inside heading */
   .heading h2 {
     font-weight: normal;
+  }
+  
+  /* Add CSS for lesson */
+  .lesson {
+    float: left;
+    width: 25%;
   }
   
   

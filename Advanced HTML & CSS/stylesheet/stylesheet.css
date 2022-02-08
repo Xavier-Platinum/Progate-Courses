@@ -33,16 +33,12 @@ body {
     margin-bottom: 3px;
   }
   
-  .btn {
-    padding: 12px 24px;
-    color: white;
-    display: inline-block;
-    opacity: 0.8;
-    border-radius: 4px;
+  .btn-wrapper {
+    margin: 20px 0;
   }
   
-  .btn:hover {
-    opacity: 1;
+  .btn-wrapper p {
+    margin: 10px 0;
   }
   
   .signup {
@@ -58,18 +54,34 @@ body {
     background-color: #55acee;
   }
   
-  .btn-wrapper {
-    margin: 20px 0;
+  .btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
   }
   
-  .btn-wrapper p {
-    margin: 10px 0;
+  .btn:hover {
+    opacity: 1;
   }
   
-  /* Change fa's margin-right to 5px */
   .fa {
     margin-right: 5px;
   }
   
+  /* Add CSS for <header> tags */
+  header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+  }
+  
+  
+  /* Add CSS for logo */
+  .logo {
+    width: 124px;
+    margin-top: 20px;
+  }
   
   

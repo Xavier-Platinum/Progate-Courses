@@ -30,3 +30,5 @@
     -  variable names
     -  naming convention
     -  
+- Lesson 9 : Updating variables
+    -  The Flow of updating variables

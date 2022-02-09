@@ -14,3 +14,6 @@ Lesson 4 : More Calculations
     -  Multiplication
     -  Division
     -  remainder
+Lesson 5 : Sting concatenation
+    -  Difference between strings and Integers
+    -  

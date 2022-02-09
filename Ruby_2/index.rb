@@ -1,8 +1,5 @@
-# Print the result of 13 times 9
-puts 13 * 9
+# Concatenate "I am " and "Ken the Ninja", and print it
+puts "I am" + "Ken the Ninja"
 
-# Print the result of 32 divided by 8
-puts 32 / 8
-
-# Print the remainder of 18 divided by 5
-puts 18 % 5
+# Concatenate "38" and "19", and print it
+puts "38" + "19"

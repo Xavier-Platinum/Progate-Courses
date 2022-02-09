@@ -3,21 +3,26 @@
 
 
 ### Course Outline
-Lesson 2 : Ruby syntax and strings
+- Lesson 2 : Ruby syntax and strings
     -  Strings
     -  Puts to output
     -  comments (#)
-Lesson 3 : Integers and Basic Calculation
+- Lesson 3 : Integers and Basic Calculation
     -  Integers
     -  Difference between Strings and Integers
-Lesson 4 : More Calculations
+- Lesson 4 : More Calculations
     -  Multiplication
     -  Division
     -  remainder
-Lesson 5 : Sting concatenation
+- Lesson 5 : Sting concatenation
     -  Difference between strings and Integers
     -  
-Lesson 6 : Variables
+- Lesson 6 : Variables
     -  Defining a variable (name = "variable")
     -  Using variables
     -  common mistakes
+- Lesson 7 : Using Variables 
+    -  Where variables can be used
+    -  string variables
+    -  integer variables
+    -  

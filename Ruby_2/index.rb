@@ -1,5 +1,9 @@
-# Assign the string "Ken the Ninja" to the name variable
-name = "Ken the Ninja"
+text = "Let's learn programming"
 
-# Print the name variable
-puts name
+# Concatenate the text variable and the given string, and print the result
+puts text + " using Progate"
+length = 8
+width = 9
+
+# Print the result of length * width
+puts length * width

@@ -1,6 +1,12 @@
-score = 92
+score = 80
 
-# If the score is greater than 80, print "Great job!"
-if score > 80
-    puts "Great job!"
+# Print the result of score > 80
+puts score > 80
+
+# Print the result of score <= 80
+puts score <= 80
+
+# If the score is less than or equal to 80, print "You can do better!"
+if score <= 80
+  puts "You can do better!"
 end

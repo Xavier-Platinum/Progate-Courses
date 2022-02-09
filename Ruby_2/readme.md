@@ -50,3 +50,10 @@
     -  Example of if statement
     -  When the condition is false
     -  
+- Lesson 13 : Booleans and Comparism operators
+    -  printing a condition
+    -  booleans
+    -  if statements and booleans
+    -  if statements and booleans(2)
+    -  comparism operators
+- Lesson 14 : 

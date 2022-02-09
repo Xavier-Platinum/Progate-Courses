@@ -17,3 +17,7 @@ Lesson 4 : More Calculations
 Lesson 5 : Sting concatenation
     -  Difference between strings and Integers
     -  
+Lesson 6 : Variables
+    -  Defining a variable (name = "variable")
+    -  Using variables
+    -  common mistakes

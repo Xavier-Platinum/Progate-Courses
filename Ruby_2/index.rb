@@ -1,5 +1,5 @@
-# Concatenate "I am " and "Ken the Ninja", and print it
-puts "I am" + "Ken the Ninja"
+# Assign the string "Ken the Ninja" to the name variable
+name = "Ken the Ninja"
 
-# Concatenate "38" and "19", and print it
-puts "38" + "19"
+# Print the name variable
+puts name

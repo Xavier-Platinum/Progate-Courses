@@ -44,3 +44,9 @@
 - Lesson 11 : String Interpolation (#{})
     -  Rules of interpolation ("double quote string")
     -  interpolation verses concatenation
+- Lesson 12 : if Statements
+    -  control flow
+    -  if statement
+    -  Example of if statement
+    -  When the condition is false
+    -  

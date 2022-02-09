@@ -1,6 +1,6 @@
-length = 9
-width = 8
-area = length * width
+score = 92
 
-# Print "The area is ____" using the area variable
-puts "The area is #{area}"
+# If the score is greater than 80, print "Great job!"
+if score > 80
+    puts "Great job!"
+end

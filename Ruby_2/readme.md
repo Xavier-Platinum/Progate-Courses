@@ -26,3 +26,7 @@
     -  string variables
     -  integer variables
     -  
+- Lesson 8 : Roles of Variables 
+    -  variable names
+    -  naming convention
+    -  

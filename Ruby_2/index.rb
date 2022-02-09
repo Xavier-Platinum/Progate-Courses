@@ -1,9 +1,7 @@
-text = "Let's learn programming"
+# Assign " is an awesome programming language" to the text variable
+text =  "is an awesome programming language"
 
-# Concatenate the text variable and the given string, and print the result
-puts text + " using Progate"
-length = 8
-width = 9
-
-# Print the result of length * width
-puts length * width
+# Concatenate the following strings with the text variable and print the result
+puts "Ruby " + text
+puts "Python " + text
+puts "Java " + text

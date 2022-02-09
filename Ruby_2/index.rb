@@ -1,3 +1,5 @@
 puts "Hello Ruby"
 
-#comment
+puts 2 + 5 # integer
+
+puts "2 + 5" # strings

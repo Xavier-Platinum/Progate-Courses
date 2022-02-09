@@ -32,3 +32,13 @@
     -  
 - Lesson 9 : Updating variables
     -  The Flow of updating variables
+- Lesson 10 : Updating variables(2)
+    -  self assignment of variables
+    -  The flow of self assignment
+    -  Self assignment of variables 
+        -  (X = X + 10) -> (X += 10)
+        -  (X = X - 10) -> (X -= 10)
+        -  (X = X * 10) -> (X *= 10)
+        -  (X = X / 10) -> (X /= 10)
+        -  (X = X % 10) -> (X %= 10)
+    

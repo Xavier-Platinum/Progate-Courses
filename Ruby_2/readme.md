@@ -41,4 +41,6 @@
         -  (X = X * 10) -> (X *= 10)
         -  (X = X / 10) -> (X /= 10)
         -  (X = X % 10) -> (X %= 10)
-    
+- Lesson 11 : String Interpolation (#{})
+    -  Rules of interpolation ("double quote string")
+    -  interpolation verses concatenation

@@ -56,4 +56,4 @@
     -  if statements and booleans
     -  if statements and booleans(2)
     -  comparism operators
-- Lesson 14 : 
+- Lesson 14 : B

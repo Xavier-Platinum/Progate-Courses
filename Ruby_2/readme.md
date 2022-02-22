@@ -56,4 +56,8 @@
     -  if statements and booleans
     -  if statements and booleans(2)
     -  comparism operators
-- Lesson 14 : B
+- Lesson 14 : Booleans and comparism operators 2
+    -  x < y
+    -  x <= y
+    -  x == y
+    -  x != y

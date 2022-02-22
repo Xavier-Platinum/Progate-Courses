@@ -71,4 +71,7 @@ Lesson 16: elsif Statements
     -  elsif
     -  Examples of elsif
     -  When multiple conditions match
-    -  
+- Lesson 17: Combining Conditions
+    -  && (AND)
+    -  || (OR)
+    -  examples of combined consitions

@@ -61,3 +61,9 @@
     -  x <= y
     -  x == y
     -  x != y
+- Lesson 15 : else statement
+    -  Handling false conditions
+    -  else statements
+    - Examples of else
+    -  Indentation
+    

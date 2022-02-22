@@ -66,4 +66,9 @@
     -  else statements
     - Examples of else
     -  Indentation
-    
+Lesson 16: elsif Statements
+    -  Adding more conditions
+    -  elsif
+    -  Examples of elsif
+    -  When multiple conditions match
+    -  

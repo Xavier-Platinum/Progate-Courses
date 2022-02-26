@@ -132,4 +132,7 @@ Lesson 10: Using if with nil
     -  if and nil
     -  Using if with nil
 
-Lesson 11 : 
+Lesson 11 : Arrays with hash Elements
+    -  Arrays wth hash elements [{key1: value1}, {key1: value2}]
+    -  Arrays with hash elements(2)
+    

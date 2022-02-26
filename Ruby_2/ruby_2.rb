@@ -88,3 +88,14 @@ if exam[:score]
 else
   puts "Your score for #{exam[:subject]} has not been assessed"
 end
+
+# Lesson 11
+# Assign a list of hashes into the exams variable
+exams = [
+    {subject: "Math", score: 80}, 
+    {subject: "Science", score: 55}
+  ]
+  
+  # Print the element at index 1
+  puts exams[1]
+  

@@ -89,4 +89,10 @@ Lesson 2: Using Arrays
     -  index numbers [0, 1, 2, 3, ...]
     -  getting an arrays of elements puts names[1]
     -  arrays and strings interpolation "My name is #{name[1]}"
+
+Lesson 3: The each method
+    -  loops
+    -  the each method array_name.each do  |variable name|
+    -  How the each method works
+    -  The flow of each
     

@@ -95,4 +95,8 @@ Lesson 3: The each method
     -  the each method array_name.each do  |variable name|
     -  How the each method works
     -  The flow of each
+
+Lesson 4: Variable Scope
+    -  Scope
+    -  Scope(2)
     

@@ -20,3 +20,15 @@ languages = ["Japanese", "English", "Spanish"]
 languages.each do|language|
     puts "I can speak #{language}"
 end
+
+# Lesson 4 
+languages = ["Japanese", "English", "Spanish"]
+border = "---------------------"
+
+languages.each do |language|
+  # Print the border variable
+  puts border
+  puts "I can speak #{language}"
+end
+
+# Remove the following code

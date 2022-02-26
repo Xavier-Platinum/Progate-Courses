@@ -69,3 +69,12 @@ puts exam[:score]
 exam = {subject: "Math", score: 80}
 
 puts "#{exam[:subject]} score is #{exam[:score]}"
+
+# Lesson 9
+exam = {subject: "Math", score: 80}
+
+# Print the value with the symbol :grade
+puts exam[:grade]
+
+# Print nil
+puts nil

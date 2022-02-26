@@ -121,3 +121,8 @@ Lesson 8: Hash Keys
     -  The shorthand syntax for symbol keys(2) puts [:name]
     -  Hash syntax (strings as keys, symbols as keys, symbols as shorthand)
     -  
+
+Lesson 9: Nil
+    -  When the symbol doesn't exist
+    -  nil
+    -  

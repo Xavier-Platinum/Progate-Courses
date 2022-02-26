@@ -85,3 +85,8 @@ Lesson 1 : Mastering ruby (Arrays and Loops)
     -  Arrays [value1, value2, value3, ...]
     -  assigning arrays to variables arr = []
 
+Lesson 2: Using Arrays
+    -  index numbers [0, 1, 2, 3, ...]
+    -  getting an arrays of elements puts names[1]
+    -  arrays and strings interpolation "My name is #{name[1]}"
+    

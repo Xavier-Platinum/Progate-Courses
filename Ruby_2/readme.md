@@ -115,3 +115,9 @@ Lesson 7: Symbols
     -  symbols(2) e.g puts :John
     -  Using Symbols for keys pusts[:name]
     -  
+
+Lesson 8: Hash Keys
+    -  The shorthand symbols for syntax keys {name: "John", age: 21}
+    -  The shorthand syntax for symbol keys(2) puts [:name]
+    -  Hash syntax (strings as keys, symbols as keys, symbols as shorthand)
+    -  

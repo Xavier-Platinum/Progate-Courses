@@ -63,3 +63,9 @@ exam = {:subject => "Math", :score => 80}
 
 # Print the value of the element with the symbol :score
 puts exam[:score]
+
+# Lesson 8
+# Rewrite the below hash using the shorthand syntax
+exam = {subject: "Math", score: 80}
+
+puts "#{exam[:subject]} score is #{exam[:score]}"

@@ -126,3 +126,10 @@ Lesson 9: Nil
     -  When the symbol doesn't exist
     -  nil
     -  
+
+Lesson 10: Using if with nil
+    -  Avoiding nil
+    -  if and nil
+    -  Using if with nil
+
+Lesson 11 : 

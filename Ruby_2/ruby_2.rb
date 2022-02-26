@@ -32,3 +32,8 @@ languages.each do |language|
 end
 
 # Remove the following code
+# Assign a hash into the exam variable
+exam = {"subject" => "Math", "score" => 80}
+
+# Print the exam variable
+puts exam

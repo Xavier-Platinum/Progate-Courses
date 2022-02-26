@@ -99,4 +99,9 @@ Lesson 3: The each method
 Lesson 4: Variable Scope
     -  Scope
     -  Scope(2)
+
+Lesson 5: Hashes
+    -  Hashes [value1, value2] Hashes {key1 => value1, key2 => value2}
+    -  How to create a hash {key1 => value1, key2 => value2}
+    -  Assingning hashes to variables 
     

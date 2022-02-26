@@ -109,4 +109,9 @@ Lesson 6: Using Hashes
     -  Getting the value of an element puts user["name"]
     -  Updating a hash user["age"] = 22
     -  Adding an element to a hash user["gender"] = "male"
-    
+
+Lesson 7: Symbols
+    -  Symbols {:name => "John", :age => 30}
+    -  symbols(2) e.g puts :John
+    -  Using Symbols for keys pusts[:name]
+    -  

@@ -77,3 +77,11 @@ Lesson 16: elsif Statements
     -  examples of combined consitions
 - Lesson 18: The Final Project
     -  
+
+### Ruby_II
+Lesson 1 : Mastering ruby (Arrays and Loops)
+    -  Arrays
+    -  Structuring data
+    -  Arrays [value1, value2, value3, ...]
+    -  assigning arrays to variables arr = []
+

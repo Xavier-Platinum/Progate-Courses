@@ -104,4 +104,9 @@ Lesson 5: Hashes
     -  Hashes [value1, value2] Hashes {key1 => value1, key2 => value2}
     -  How to create a hash {key1 => value1, key2 => value2}
     -  Assingning hashes to variables 
+
+Lesson 6: Using Hashes
+    -  Getting the value of an element puts user["name"]
+    -  Updating a hash user["age"] = 22
+    -  Adding an element to a hash user["gender"] = "male"
     

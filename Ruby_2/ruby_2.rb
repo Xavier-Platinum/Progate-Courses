@@ -31,9 +31,28 @@ languages.each do |language|
   puts "I can speak #{language}"
 end
 
+# Lesson 5
 # Remove the following code
 # Assign a hash into the exam variable
 exam = {"subject" => "Math", "score" => 80}
 
 # Print the exam variable
 puts exam
+
+# Lesson 6
+exam = {"subject" => "Math", "score" => 80}
+
+# Print the value of the element with the key "subject"
+puts exam["subject"]
+
+# Update the value of the element with the key "subject" to "Science"
+exam["subject"] = "Science"
+
+# Print the value of the element with the key "subject" again
+puts exam["subject"]
+
+# Add an element with the key "grade" and the value "B"
+exam["grade"] = "B"
+
+# Print the value of the element with the key "grade"
+puts exam["grade"]

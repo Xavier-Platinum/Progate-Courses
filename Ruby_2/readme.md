@@ -273,4 +273,6 @@ Lesson 16: Recieving input
     -  gettig input
     -  gets.chomp e.g name = gets.chomp
     -  getting integer inputs number = gets.chomp.to_i
-    
+
+Lesson 17: Selecting a menu item
+    -  

@@ -293,3 +293,6 @@ Lesson 3: How inheritance work
 
 Lesson 4: Adding Instance variable
     -  Adding an instance variable to a child class
+
+Lesson 5: Adding Instance Methods
+    -  

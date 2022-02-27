@@ -179,3 +179,9 @@ Lesson 6: Multiple params
     -  multiple params
     -  multiple arguements
 
+Lesson 7 :  Return Values
+    -  Return values 
+    -  Methods and return values e.g return value
+    -  receiving the return value
+    -  
+

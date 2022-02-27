@@ -44,3 +44,15 @@ def print_info(item)
   # Call the print_info method with the argument "TV"
   
   print_info("TV")
+
+# Lesson 5
+def print_info(item)
+    puts "Welcome to Ninja Electronics!"
+    puts "#{item}s are on sale today!"
+  end
+  
+  print_info("Headphone")
+  
+  # Remove the following code
+  puts item
+  

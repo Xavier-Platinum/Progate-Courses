@@ -170,4 +170,7 @@ Lesson 4: Parameters and arguements(2)
     -  Why use methods
     -  Value types of arguements
     -  Arguements error
-    
+
+Lesson 5: Methods and Scopes
+    -  The scope of parameters
+    -  

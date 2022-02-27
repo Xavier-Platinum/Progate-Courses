@@ -338,4 +338,9 @@ Lesson 15: Calling class methods
     -  Calling a class method
     -  Calling a class method inside an Instance
     -  Instance methods and class methods 
-    
+
+
+## Understanding more about the web
+
+[https://docs.google.com/document/d/1VNxgBb9C7jIOMCEmZ4VpJaNJGHU91N4gui-JnNcCyzk/edit?usp=sharing]
+

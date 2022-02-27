@@ -29,19 +29,39 @@
 # puts "The total price is $#{selected_menu.get_total_price(count)}"
 
 
-# Lesson 3
-# Import food.rb and drink.rb using require
+# # Lesson 3
+# # Import food.rb and drink.rb using require
+# require "./food"
+# require "./drink"
+
+# # Assign an instance of Food with the stated arguments to the food1 variable
+# food1 = Food.new(name: "Pizza", price: 8)
+
+# # Print the return value of info method of the food1 instance
+# puts food1.info
+
+# # Assign an instance of Drink with the stated arguments to the drink1 variable
+# drink1 = Drink.new(name: "Cola", price: 3)
+
+# # Print the return value of info method of the drink1 instance
+# puts drink1.info
+
+# Lesson 4
 require "./food"
 require "./drink"
 
-# Assign an instance of Food with the stated arguments to the food1 variable
 food1 = Food.new(name: "Pizza", price: 8)
-
-# Print the return value of info method of the food1 instance
-puts food1.info
-
-# Assign an instance of Drink with the stated arguments to the drink1 variable
 drink1 = Drink.new(name: "Cola", price: 3)
 
-# Print the return value of info method of the drink1 instance
-puts drink1.info
+# Assign 700 to the calorie instance variable of food1
+food1.calorie = 700
+
+# Print the calorie instance variable of food1
+puts food1.calorie
+
+# Assign 500 to the volume instance variable of drink1
+drink1.volume = 500
+
+# Print the volume instance variable of drink1
+puts drink1.volume
+

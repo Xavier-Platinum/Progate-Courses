@@ -1,7 +1,6 @@
-# Import menu.rb using require
 require "./menu"
 
-# Define the Drink class that inherits from the Menu class
 class Drink < Menu
-
+  # Add the volume instance variable
+  attr_accessor: volume
 end

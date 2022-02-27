@@ -268,3 +268,9 @@ Lesson 14: Displaying the Menu
 Lesson 15: Displaying the menus(2)
     -  Displaying index numbers using loops
     -  
+
+Lesson 16: Recieving input
+    -  gettig input
+    -  gets.chomp e.g name = gets.chomp
+    -  getting integer inputs number = gets.chomp.to_i
+    

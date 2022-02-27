@@ -245,3 +245,5 @@ Lesson 9: Methods and Instance Variable
 Lesson 10: Classes and Instances review
     -  calculating total price
     -  
+
+Lesson 11: 

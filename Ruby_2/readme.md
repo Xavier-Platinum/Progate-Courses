@@ -250,3 +250,9 @@ Lesson 11: The Initialize method
     -  Using The initialise method
     -  Using Instance of Variables inside of the initialise Method
     -  
+
+Lesson 12: The initialize Method(2)
+    -  Passing Arguements to The initialise method
+    -  Arguement methods for the initialize Method
+    -  Assigning values to instance variables
+

@@ -214,3 +214,8 @@ Lesson 3: Instance Variables
     -  attr_accessor e.g attr_accessor :name
     -  creating multiple instances
     -  
+
+Lesson 4: Creating an Instance
+    -  Instance of a class
+    -  Creating an Instance
+    -  

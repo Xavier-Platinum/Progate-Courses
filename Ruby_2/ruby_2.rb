@@ -107,4 +107,14 @@ exams = [
   
   # Print value of the element with the symbol :score at index 1
   puts exams[1][:score]
+
+# Lesson 13
+exams = [
+    {subject: "Math", score: 80},
+    {subject: "Science", score: 55}
+  ]
   
+  # Get each element of exams using the each method, and print "Your score for ____ is ____%"
+  exams.each do |exam|
+    puts "Your score for #{exam[:subject]} is #{exam[:score]}%"
+  end

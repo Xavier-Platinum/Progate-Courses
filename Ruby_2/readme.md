@@ -139,3 +139,8 @@ Lesson 11 : Arrays with hash Elements
 Lesson 12: Arrays with hash elements(2)
     -  The value of a hash inside an array e.g user = users[1] ... user[:name]
     -  the value of hash inside an array(2) e.g users[1][:name]
+
+Lesson 13 : Arrays with hash elements (3)
+    -  Using the eah method
+    -  Handling Hash values inside each method user[:name]
+    

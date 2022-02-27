@@ -260,3 +260,7 @@ Lesson 12: The initialize Method(2)
 Lesson 13: Sepearating files 
     -  require e.g require ("./Menu")
     -  
+
+Lesson 14: Displaying the Menu
+    -  Array of instances
+    -  

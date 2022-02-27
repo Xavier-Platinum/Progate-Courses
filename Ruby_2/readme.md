@@ -286,3 +286,7 @@ Lesson 2: Class Inheritance
     -  Using an existing class
     -  Class inheritance
     -  
+
+Lesson 3: How inheritance work
+    -  Instances of the Child class
+    -  

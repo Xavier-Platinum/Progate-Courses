@@ -1,4 +1,3 @@
-# Import the Date class using require
 require "date"
 
 class Menu
@@ -19,11 +18,16 @@ class Menu
     if count >= 3
       total_price -= 1
     end
+    
+    # Add an if statement
+    if count >= 1 && Menu.discount_day?
+      total_price -= 1
+    end
+    
     return total_price
   end
   
   def Menu.discount_day?
-    # Return the value of today.sunday?
     today = Date.today
     return today.sunday?
   end

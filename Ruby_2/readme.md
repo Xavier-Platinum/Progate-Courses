@@ -332,4 +332,10 @@ Lesson 13: Defining Class Methods
 Lesson 14: Defining Class Methods(2)
     -  Using class methods
     -  Using the date class inside a class method
+
+
+Lesson 15: Calling class methods
+    -  Calling a class method
+    -  Calling a class method inside an Instance
+    -  Instance methods and class methods 
     

@@ -202,3 +202,9 @@ Lesson 1: Getting started
     -  classes
     -  receiving inputs
     -  
+
+Lesson 2: Defining a class
+    -  Creating an object (an object is an instance of a class)
+    -  Steps to create an instance
+    -  Defining a class class .... end
+    -  

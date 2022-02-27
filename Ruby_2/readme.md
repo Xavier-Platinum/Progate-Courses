@@ -246,4 +246,7 @@ Lesson 10: Classes and Instances review
     -  calculating total price
     -  
 
-Lesson 11: 
+Lesson 11: The Initialize method
+    -  Using The initialise method
+    -  Using Instance of Variables inside of the initialise Method
+    -  

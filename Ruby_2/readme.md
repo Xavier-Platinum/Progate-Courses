@@ -233,3 +233,6 @@ Lesson 7: Using methods
     -  Defining a method in a class
     -  Calling a method of a class
     -  
+
+Lesson 8: Instance of a method
+    -  Using instance methods

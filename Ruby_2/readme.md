@@ -166,3 +166,8 @@ Lesson 3: Parameters and arguements
     -  Using parameters 
     - -
 
+Lesson 4: Parameters and arguements(2)
+    -  Why use methods
+    -  Value types of arguements
+    -  Arguements error
+    

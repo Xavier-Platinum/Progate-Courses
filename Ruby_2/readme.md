@@ -299,3 +299,8 @@ Lesson 5: Adding Instance Methods
 
 Lesson 6: Food Ordering App Review
     -  
+
+Lesson 7: Overides
+    -  Method override
+    -  How overriding works
+    

@@ -135,4 +135,7 @@ Lesson 10: Using if with nil
 Lesson 11 : Arrays with hash Elements
     -  Arrays wth hash elements [{key1: value1}, {key1: value2}]
     -  Arrays with hash elements(2)
-    
+
+Lesson 12: Arrays with hash elements(2)
+    -  The value of a hash inside an array e.g user = users[1] ... user[:name]
+    -  the value of hash inside an array(2) e.g users[1][:name]

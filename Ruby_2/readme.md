@@ -344,3 +344,6 @@ Lesson 15: Calling class methods
 
 [https://docs.google.com/document/d/1VNxgBb9C7jIOMCEmZ4VpJaNJGHU91N4gui-JnNcCyzk/edit?usp=sharing]
 
+## Understanding more about web applications
+[https://docs.google.com/document/d/1YP4MZG4KRfZAj2-BwI2iXGezqbqBijwahyAhQneJoLo/edit?usp=sharing]
+

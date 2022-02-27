@@ -256,3 +256,7 @@ Lesson 12: The initialize Method(2)
     -  Arguement methods for the initialize Method
     -  Assigning values to instance variables
 
+
+Lesson 13: Sepearating files 
+    -  require e.g require ("./Menu")
+    -  

@@ -296,3 +296,6 @@ Lesson 4: Adding Instance variable
 
 Lesson 5: Adding Instance Methods
     -  
+
+Lesson 6: Food Ordering App Review
+    -  

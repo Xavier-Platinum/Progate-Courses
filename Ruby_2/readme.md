@@ -149,3 +149,14 @@ Lesson 14: The Final Project
 
 Lesson 15: The Final project(2)
     -  
+
+## Ruby III
+Lesson 1: Methods
+    -  Methods 
+    -  Defining a method e.g def .... end
+    -  Calling a method e.g method
+    -  
+
+Lesson 2: Defining a method
+    -  Defining a method
+    

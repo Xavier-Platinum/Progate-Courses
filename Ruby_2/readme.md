@@ -219,3 +219,8 @@ Lesson 4: Creating an Instance
     -  Instance of a class
     -  Creating an Instance
     -  
+
+Lesson 5: Using Instance variables
+    -  Adding data to an instance
+    -  Assign  a value to the instannce variable
+    -  using instace variables e.g puts menu1.name = "Sushi"

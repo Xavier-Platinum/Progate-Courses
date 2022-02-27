@@ -3,10 +3,9 @@ require "./menu"
 class Food < Menu
   attr_accessor :calorie
   
-  # Define the initialize method
   def initialize(name:, price:, calorie:)
-    self.name = name
-    self.price = price
+    # Rewrite the following using super
+    super(name: name, price: price)
     self.calorie = calorie
   end
   

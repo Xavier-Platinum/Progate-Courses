@@ -159,4 +159,10 @@ Lesson 1: Methods
 
 Lesson 2: Defining a method
     -  Defining a method
-    
+
+Lesson 3: Parameters and arguements
+    -  Parameters e.g method(parameter)
+    -  Calling a method with parameters e.g method(arguement)
+    -  Using parameters 
+    - -
+

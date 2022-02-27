@@ -208,14 +208,27 @@
 
 
 # ======================= Lesson 11 ==========================
-# Import the Date class using require
+# # Import the Date class using require
+# require "date"
+
+# # Assign an instance of Date to the birthday variable
+# birthday = Date.new(1997, 01, 24)
+
+# # Print the birthday variable
+# puts birthday
+
+# # Print the return value of the sunday? instance method of the birthday variable
+# puts birthday.sunday?
+
+
+# =========================== Lesson 12 =====================
 require "date"
 
-# Assign an instance of Date to the birthday variable
-birthday = Date.new(1997, 01, 24)
+# Assign the return value of Date.today to the today variable
+today = Date.today
 
-# Print the birthday variable
-puts birthday
+# Print the today variable
+puts today
 
-# Print the return value of the sunday? instance method of the birthday variable
-puts birthday.sunday?
+# Call today's sunday? method, then print the return value
+puts today.sunday?

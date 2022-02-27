@@ -3,19 +3,26 @@ class Menu
     attr_accessor :price
     
     def initialize(name:, price:)
-        self.name = name
-        self.price = price
+      self.name = name
+      self.price = price
     end
     
     def info
-        return "#{self.name} $#{self.price}"
+      return "#{self.name} $#{self.price}"
     end
     
     def get_total_price(count)
-        total_price = self.price * count
-        if count >= 3
-            total_price -= 1
-        end
-        return total_price
+      total_price = self.price * count
+      if count >= 3
+        total_price -= 1
+      end
+      return total_price
     end
-end
+    
+    # Define the discount_day? class method
+    def Menu.discount_day?
+      
+    end
+    
+  end
+  

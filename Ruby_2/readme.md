@@ -320,4 +320,12 @@ Lesson 11: The Date Class
     -  The date class
     -  an Instance of Date
     -  Instance Methods of Date
+
+
+Lesson 12: The Date Class(2)
+    -  Mastering the date class
+    -  Today's date instance
+
+Lesson 13: Defining Class Methods
+    -  Defining Class Methods
     

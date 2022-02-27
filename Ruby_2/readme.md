@@ -241,3 +241,7 @@ Lesson 9: Methods and Instance Variable
     -  Printing the menu info
     -  Using instance variables in instance methods
     - 
+
+Lesson 10: Classes and Instances review
+    -  calculating total price
+    -  

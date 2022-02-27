@@ -236,3 +236,8 @@ Lesson 7: Using methods
 
 Lesson 8: Instance of a method
     -  Using instance methods
+
+Lesson 9: Methods and Instance Variable
+    -  Printing the menu info
+    -  Using instance variables in instance methods
+    - 

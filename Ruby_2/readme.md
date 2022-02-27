@@ -174,3 +174,8 @@ Lesson 4: Parameters and arguements(2)
 Lesson 5: Methods and Scopes
     -  The scope of parameters
     -  
+
+Lesson 6: Multiple params
+    -  multiple params
+    -  multiple arguements
+

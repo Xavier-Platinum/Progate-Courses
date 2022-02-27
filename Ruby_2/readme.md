@@ -227,3 +227,9 @@ Lesson 5: Using Instance variables
 
 Lesson 6: Multiple instance
     -  
+
+Lesson 7: Using methods
+    -  The food ordering app
+    -  Defining a method in a class
+    -  Calling a method of a class
+    -  

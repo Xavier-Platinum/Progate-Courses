@@ -328,4 +328,8 @@ Lesson 12: The Date Class(2)
 
 Lesson 13: Defining Class Methods
     -  Defining Class Methods
+
+Lesson 14: Defining Class Methods(2)
+    -  Using class methods
+    -  Using the date class inside a class method
     

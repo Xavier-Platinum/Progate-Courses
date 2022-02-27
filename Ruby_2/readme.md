@@ -264,3 +264,7 @@ Lesson 13: Sepearating files
 Lesson 14: Displaying the Menu
     -  Array of instances
     -  
+
+Lesson 15: Displaying the menus(2)
+    -  Displaying index numbers using loops
+    -  

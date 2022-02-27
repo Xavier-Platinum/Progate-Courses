@@ -143,4 +143,7 @@ Lesson 12: Arrays with hash elements(2)
 Lesson 13 : Arrays with hash elements (3)
     -  Using the eah method
     -  Handling Hash values inside each method user[:name]
+
+Lesson 14: The Final Project
+    -  Multiple Hashes
     

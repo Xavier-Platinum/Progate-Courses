@@ -208,3 +208,9 @@ Lesson 2: Defining a class
     -  Steps to create an instance
     -  Defining a class class .... end
     -  
+
+Lesson 3: Instance Variables 
+    -  adding details
+    -  attr_accessor e.g attr_accessor :name
+    -  creating multiple instances
+    -  

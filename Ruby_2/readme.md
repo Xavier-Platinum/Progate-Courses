@@ -280,4 +280,9 @@ Lesson 17: Selecting a menu item
 ## Ruby_V -->> Class Inheritance
 Lesson 1: Getting Started
     -  The Food ordering app
-    
+
+Lesson 2: Class Inheritance
+    -  The Food and Drink Classes
+    -  Using an existing class
+    -  Class inheritance
+    -  

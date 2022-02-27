@@ -5,9 +5,9 @@ class Food < Menu
   
   # Define the initialize method
   def initialize(name:, price:, calorie:)
-    self.name
-    self.price
-    self.calorie
+    self.name = name
+    self.price = price
+    self.calorie = calorie
   end
   
   def info

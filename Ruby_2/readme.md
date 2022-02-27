@@ -303,4 +303,6 @@ Lesson 6: Food Ordering App Review
 Lesson 7: Overides
     -  Method override
     -  How overriding works
-    
+
+Lesson 8: Overrides(2)
+    -  overiding the initialise method

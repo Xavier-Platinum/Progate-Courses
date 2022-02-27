@@ -224,3 +224,6 @@ Lesson 5: Using Instance variables
     -  Adding data to an instance
     -  Assign  a value to the instannce variable
     -  using instace variables e.g puts menu1.name = "Sushi"
+
+Lesson 6: Multiple instance
+    -  

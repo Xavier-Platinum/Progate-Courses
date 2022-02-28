@@ -56,3 +56,8 @@ Lesson 8: The About page
     -  adding routes and actions
     -  adding a view 
     -  
+
+Lesson 9: adjusting the Layout
+    -  Improving the design
+    -  the stylesheet folder app/assets/stylesheet
+    -  applying CSS

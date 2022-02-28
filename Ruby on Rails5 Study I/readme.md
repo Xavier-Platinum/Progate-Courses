@@ -45,4 +45,6 @@ Lesson 6 :Understanding Routes
     -  The routes file <p>
 Routes are defined in the config/routes.rb file in the following syntax: get "URL" => "controller#action". For instance, as shown in the image below, the URL "localhost:3000/home/top" points to the top action in the Home controller.</p>
     -  Routig errors
-    
+
+Lesson 7: Changing a Route
+    -  

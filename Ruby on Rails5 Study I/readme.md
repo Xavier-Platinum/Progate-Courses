@@ -123,3 +123,9 @@ Lesson 7: Creating a Table
 Lesson 8: Models
     -  The post model
     -  summary of rails g model
+
+Lesson 9: Rails console
+    -  using rails console
+    -  rails console
+    -  rails console(2)
+    -  

@@ -29,3 +29,10 @@ Lesson 4: Understanding views
     -  Understanding views
     -  Uderstanding views(2)
     -  Change the view
+
+Lesson 5: Uderstanding controllers
+    -  How pages are displayed
+    -  Controller files e.g generated when rails generate home top is called
+    -  Understanding actions <p>
+The role of an action in a controller is to find a view from the views folder, then return it to the browser. The action looks for a folder with the same name as the controller (Home), then finds a file with the same name as the action (top).</p>
+    -  

@@ -195,3 +195,7 @@ Lesson 5: Getting the id from the url
 Lesson 6: Displaying the Post in the Post Details Page
     -  Completing the Post details page e.g @post = Post.find_by(id: params[:id])
     -  
+
+Lesson 7: Adding Links to the Post details Page
+    -  Adding a link to the Post details page e.g <%= link_to(post.content, "/posts/#{post.id}") %>
+    -  

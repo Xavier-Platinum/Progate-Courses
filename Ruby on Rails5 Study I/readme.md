@@ -102,3 +102,7 @@ Lesson 4: Using the each method in views
     -  preparing arrays
     -  the each method
     -  
+
+Lesson 5: Defining variables in actions
+    -  defining a variable in an action
+    -  @variables 

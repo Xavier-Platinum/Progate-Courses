@@ -129,3 +129,9 @@ Lesson 9: Rails console
     -  rails console
     -  rails console(2)
     -  
+
+Lesson 10: Adding data to a table
+    -  saving data to a table
+    -  the new Method e.g Post.new
+    -  the save method e.g post.save
+    -  

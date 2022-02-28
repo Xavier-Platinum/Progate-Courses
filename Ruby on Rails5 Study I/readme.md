@@ -48,3 +48,11 @@ Routes are defined in the config/routes.rb file in the following syntax: get "UR
 
 Lesson 7: Changing a Route
     -  
+
+Lesson 8: The About page
+    -  adding the about page
+    -  What the command does <p>The command you inputted when you created the Top page actually contains controller name and action name. The rails generate controller controller_name action_name command generates a controller and the files associated with it. However, you can't use this command when a controller with the same name exists.</p>
+    -  displaying the about page
+    -  adding routes and actions
+    -  adding a view 
+    -  

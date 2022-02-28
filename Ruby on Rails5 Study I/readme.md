@@ -14,3 +14,9 @@ Lesson 1: Getting started
 Lesson2: Generating a rails applications
     -  Rails new e.g rails new tweet_app
     -  Satarting rails server e.g rails server
+
+Lesson 3: The Top Page
+    -  Creating the top page
+    -  Generating the top page e.g rails generate controller home top
+    -  running the rails generate command 
+    -  

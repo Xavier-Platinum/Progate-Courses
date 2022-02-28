@@ -140,3 +140,15 @@ Lesson 11: Getting data from a table
     -  getting a record of data from a table e.g Post.first
     -  getting the value of the content of the column
     -  
+
+Lesson 12: getting data from a table(2)
+    -  getting all the post 
+    -  getting all the data in the post 
+    -  Getting an element of an array Post.all[0]
+    -  Getting the content of an element
+    -  
+
+Lesson 13: Displaying the posts
+    -  Displaying data in views
+    -  Displaying all posts
+    -  

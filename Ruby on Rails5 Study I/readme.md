@@ -157,3 +157,6 @@ Lesson 14: Refactoring the common layout
     -  Refactoring the common layout
     -  How common layout works in rails
     -  
+
+Lesson 15: The Link_to Method
+    -  <%= link_to("About", "/about") %>

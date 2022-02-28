@@ -187,3 +187,7 @@ Lesson 4: The Post details page
     -  adding an id to the URL get "posts/:id" => "posts#show"
     -  Important notes in the posts/:id it comes below any index
     -  
+
+Lesson 5: Getting the id from the url
+    -  The params variable e.g @id = params[:id]
+    -  

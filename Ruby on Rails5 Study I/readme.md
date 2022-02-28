@@ -106,3 +106,10 @@ Lesson 4: Using the each method in views
 Lesson 5: Defining variables in actions
     -  defining a variable in an action
     -  @variables 
+
+Lesson 6: Preparing database
+    -  How a database works 
+    -  Creating the post tables 
+    -  creating a migrations file e.g rails g model Post content(column name):text(data type)
+    -  The migration folder
+    -  

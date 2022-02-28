@@ -152,3 +152,8 @@ Lesson 13: Displaying the posts
     -  Displaying data in views
     -  Displaying all posts
     -  
+
+Lesson 14: Refactoring the common layout
+    -  Refactoring the common layout
+    -  How common layout works in rails
+    -  

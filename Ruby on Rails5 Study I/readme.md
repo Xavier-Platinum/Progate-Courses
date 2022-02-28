@@ -61,3 +61,6 @@ Lesson 9: adjusting the Layout
     -  Improving the design
     -  the stylesheet folder app/assets/stylesheet
     -  applying CSS
+
+Lesson 10 : Displaying an Image
+    -  The Folder for Images public

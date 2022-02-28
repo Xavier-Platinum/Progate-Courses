@@ -119,3 +119,7 @@ Lesson 7: Creating a Table
     -  Generated columns
     -  migration error
     -  
+
+Lesson 8: Models
+    -  The post model
+    -  summary of rails g model

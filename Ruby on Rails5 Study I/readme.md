@@ -10,3 +10,7 @@
 
 Lesson 1: Getting started
     -  Ruby on rails and Framework
+
+Lesson2: Generating a rails applications
+    -  Rails new e.g rails new tweet_app
+    -  Satarting rails server e.g rails server

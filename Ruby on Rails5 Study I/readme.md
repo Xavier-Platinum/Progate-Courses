@@ -191,3 +191,7 @@ Lesson 4: The Post details page
 Lesson 5: Getting the id from the url
     -  The params variable e.g @id = params[:id]
     -  
+
+Lesson 6: Displaying the Post in the Post Details Page
+    -  Completing the Post details page e.g @post = Post.find_by(id: params[:id])
+    -  

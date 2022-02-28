@@ -97,3 +97,8 @@ Lesson 3: Using variables in views
     -  Displaying the value of a variable
     -  <% defining variables %> and <%= displaying variables %>
     -  
+
+Lesson 4: Using the each method in views 
+    -  preparing arrays
+    -  the each method
+    -  

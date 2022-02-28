@@ -36,3 +36,13 @@ Lesson 5: Uderstanding controllers
     -  Understanding actions <p>
 The role of an action in a controller is to find a view from the views folder, then return it to the browser. The action looks for a folder with the same name as the controller (Home), then finds a file with the same name as the action (top).</p>
     -  
+
+Lesson 6 :Understanding Routes
+    -  <p>This completes the process for displaying a web page.</p>
+    -  The role of a route
+    -  <p>While we return the view through the controller, the routing is the one responsible for connecting the browser to the controller. Make sure to understand that the process for displaying a page is in the following order: routes → controllers → views.</p>
+    -  Understanding routes <p>Routes can be described with a routing table. A route points to a specific action of a controller according to the URL requested. When a URL is entered in the browser, it calls for a matching action in the controller based on the URL.</p>
+    -  The routes file <p>
+Routes are defined in the config/routes.rb file in the following syntax: get "URL" => "controller#action". For instance, as shown in the image below, the URL "localhost:3000/home/top" points to the top action in the Home controller.</p>
+    -  Routig errors
+    

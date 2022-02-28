@@ -135,3 +135,8 @@ Lesson 10: Adding data to a table
     -  the new Method e.g Post.new
     -  the save method e.g post.save
     -  
+
+Lesson 11: Getting data from a table
+    -  getting a record of data from a table e.g Post.first
+    -  getting the value of the content of the column
+    -  

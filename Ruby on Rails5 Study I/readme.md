@@ -84,3 +84,9 @@ Lesson 1: Getting started
     -  Database
     -  The post pages and the database
     -  
+
+Lesson 2: Displaying Posts
+    -  creating the post
+    -  creating the post controller
+    -  the post controller rails generate controller posts index
+    -  creating the view for the posts page

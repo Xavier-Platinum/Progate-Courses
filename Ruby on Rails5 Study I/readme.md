@@ -199,3 +199,7 @@ Lesson 6: Displaying the Post in the Post Details Page
 Lesson 7: Adding Links to the Post details Page
     -  Adding a link to the Post details page e.g <%= link_to(post.content, "/posts/#{post.id}") %>
     -  
+
+Lesson 8: Creating the new Post page
+    -  Preparing for the new Post
+    -  

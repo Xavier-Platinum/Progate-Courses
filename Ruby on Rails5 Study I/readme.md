@@ -203,3 +203,7 @@ Lesson 7: Adding Links to the Post details Page
 Lesson 8: Creating the new Post page
     -  Preparing for the new Post
     -  
+
+Lesson 9: Adding input fields to form
+    -  adding input fields to form
+    -  

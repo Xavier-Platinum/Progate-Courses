@@ -160,3 +160,30 @@ Lesson 14: Refactoring the common layout
 
 Lesson 15: The Link_to Method
     -  <%= link_to("About", "/about") %>
+
+## Ruby on Rails Ⅲ
+<h4>
+    In this lesson, we'll first create a Post details page for each post.
+    Then, we'll also create a New post page to allow users to post on TweetApp!
+</h4>
+
+Lesson 1: Get started
+    -  
+
+Lesson 2: Creating the post details
+    -  Auto generate columns
+    -  the id column
+    -  the created_at and updated_at columns
+    -  
+
+Lesson 3: The find_by method
+    -  Getting a Post with the find_by method
+    -  The find_by method
+    -  
+
+Lesson 4: The Post details page
+    -  Creating the post details page
+    -  Routes of the post details page e.g gat "posts/1" => "posts#show"
+    -  adding an id to the URL get "posts/:id" => "posts#show"
+    -  Important notes in the posts/:id it comes below any index
+    -  

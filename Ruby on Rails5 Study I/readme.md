@@ -71,4 +71,16 @@ Lesson 11: Changing the Top Page URL
 
 Lesson 12: Creating Links
     -  How to create links
-    
+
+
+## Ruby on Rails Ⅱ
+```
+    In this lesson, we'll create one of the main features of the app, the Posts page.
+We'll now be using databases instead of just plain HTML.
+It'll start to get a little challenging, but we'll walk through each step one at a time!
+```
+
+Lesson 1: Getting started
+    -  Database
+    -  The post pages and the database
+    -  

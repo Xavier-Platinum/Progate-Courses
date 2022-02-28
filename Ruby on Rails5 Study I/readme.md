@@ -90,3 +90,10 @@ Lesson 2: Displaying Posts
     -  creating the post controller
     -  the post controller rails generate controller posts index
     -  creating the view for the posts page
+
+Lesson 3: Using variables in views
+    -  Assigning post content to variables 
+    -  Defining a variable in view
+    -  Displaying the value of a variable
+    -  <% defining variables %> and <%= displaying variables %>
+    -  

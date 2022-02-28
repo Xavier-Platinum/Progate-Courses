@@ -113,3 +113,9 @@ Lesson 6: Preparing database
     -  creating a migrations file e.g rails g model Post content(column name):text(data type)
     -  The migration folder
     -  
+
+Lesson 7: Creating a Table
+    -  rails db:migrate
+    -  Generated columns
+    -  migration error
+    -  

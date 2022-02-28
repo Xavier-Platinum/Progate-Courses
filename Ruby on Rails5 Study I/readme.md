@@ -207,3 +207,10 @@ Lesson 8: Creating the new Post page
 Lesson 9: Adding input fields to form
     -  adding input fields to form
     -  
+
+Lesson 10: Sending and receiving input data
+    -  Sending the input data
+    -  How posts are saved
+    -  The route for the create action
+    -  Specifying destination to send form e.g <%= form_tag("/posts/create") do %>
+    -  

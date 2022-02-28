@@ -20,3 +20,12 @@ Lesson 3: The Top Page
     -  Generating the top page e.g rails generate controller home top
     -  running the rails generate command 
     -  
+
+Lesson 4: Understanding views
+    <p>Well, when you run the command rails generate controller home top, Rails generates all the necessary files for displaying a page.
+        To display a page in Rails, you need the three things shown in the image on the right.
+        Let us start with view.</p>
+    <hr/>
+    -  Understanding views
+    -  Uderstanding views(2)
+    -  Change the view

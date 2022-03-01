@@ -246,3 +246,9 @@ Lesson 2: Editing a post
 Lesson 3: Deleting a post
     -  find_by(id:) then post.destroy
     -  
+
+Lesson 4: Edit Post page
+    -  creating the edit post page
+    -  Add a link to the edit post
+    -  adding a link to edit post 
+    -  

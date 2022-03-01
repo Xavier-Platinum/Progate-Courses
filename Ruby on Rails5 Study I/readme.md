@@ -226,3 +226,8 @@ Lesson 12: Saving the Post
     -  saving Posts to the database
     -  Summary of the params variables
     -  
+
+Lesson 13: Sorting the Posts
+    -  Sorting posts
+    -  The order method e.g Post.all.order(created_at: :desc)
+    -  

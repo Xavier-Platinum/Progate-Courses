@@ -219,4 +219,10 @@ Lesson 11: The redirect method
     -  Adding context of creae action
     -  Redirect
     -  redirect_to: redirect.to("/posts/images")
-    
+
+Lesson 12: Saving the Post
+    -  the name attribute
+    -  getting the form input data @post = Post.new(content: params[":content"])
+    -  saving Posts to the database
+    -  Summary of the params variables
+    -  

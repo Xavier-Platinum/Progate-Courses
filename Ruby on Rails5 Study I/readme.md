@@ -252,3 +252,9 @@ Lesson 4: Edit Post page
     -  Add a link to the edit post
     -  adding a link to edit post 
     -  
+
+Lesson 5: Adding a form
+    -  Preparing the input form 
+    -  Preparing the initial value of the form
+    -  Set the Post content as Inital value
+    -  

@@ -214,3 +214,9 @@ Lesson 10: Sending and receiving input data
     -  The route for the create action
     -  Specifying destination to send form e.g <%= form_tag("/posts/create") do %>
     -  
+
+Lesson 11: The redirect method
+    -  Adding context of creae action
+    -  Redirect
+    -  redirect_to: redirect.to("/posts/images")
+    

@@ -242,3 +242,7 @@ Lesson 2: Editing a post
     -  Post.find_by(id: 1)
     -  updated at
     -  
+
+Lesson 3: Deleting a post
+    -  find_by(id:) then post.destroy
+    -  

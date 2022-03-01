@@ -231,3 +231,5 @@ Lesson 13: Sorting the Posts
     -  Sorting posts
     -  The order method e.g Post.all.order(created_at: :desc)
     -  
+
+("Docs")["https://docs.google.com/document/d/1xc1vOAyUYvjpVJmVS3uTsgOBolPpDDoFPIXNEvL0FKY/edit?usp=sharing"]

@@ -110,7 +110,7 @@ Lesson 5: Defining variables in actions
 Lesson 6: Preparing database
     -  How a database works 
     -  Creating the post tables 
-    -  creating a migrations file e.g rails g model Post content(column name):text(data type)
+    -  creating a migrations file e.g rails g model Post content:text(column name):text(data type)
     -  The migration folder
     -  
 
@@ -233,3 +233,12 @@ Lesson 13: Sorting the Posts
     -  
 
 ("Docs")["https://docs.google.com/document/d/1xc1vOAyUYvjpVJmVS3uTsgOBolPpDDoFPIXNEvL0FKY/edit?usp=sharing"]
+
+## Ruby on rails IV [Editing & Deleting Posts]
+Lesson 1: Editing & Deleting Posts
+    -  
+
+Lesson 2: Editing a post 
+    -  Post.find_by(id: 1)
+    -  updated at
+    -  

@@ -274,3 +274,8 @@ Lesson 8: Creating delete feature
     -  Route for the destroy action
     -  get & post
     -  
+
+Lesson 9: adding a link to the destroy action
+    -  Link to the destroy Action
+    -  creating a link for post
+    -  

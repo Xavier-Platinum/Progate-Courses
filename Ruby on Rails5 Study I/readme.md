@@ -258,3 +258,9 @@ Lesson 5: Adding a form
     -  Preparing the initial value of the form
     -  Set the Post content as Inital value
     -  
+
+Lesson 6: Getting the form input data in the controller
+    -  preparing to save edits
+    -  preparing the action update
+    -  specifying the dimensions of the form
+    -  

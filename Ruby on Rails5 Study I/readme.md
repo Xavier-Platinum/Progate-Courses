@@ -264,3 +264,8 @@ Lesson 6: Getting the form input data in the controller
     -  preparing the action update
     -  specifying the dimensions of the form
     -  
+
+Lesson 7: Adding Code to the update Action
+    -  updating a post
+    -  updating a post (2)
+    -  

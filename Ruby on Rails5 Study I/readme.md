@@ -279,3 +279,7 @@ Lesson 9: adding a link to the destroy action
     -  Link to the destroy Action
     -  creating a link for post
     -  
+
+Lesson 10: Deleting post(3)
+    -  Creating the Delete Feature
+    -  

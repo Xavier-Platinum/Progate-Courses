@@ -269,3 +269,8 @@ Lesson 7: Adding Code to the update Action
     -  updating a post
     -  updating a post (2)
     -  
+
+Lesson 8: Creating delete feature
+    -  Route for the destroy action
+    -  get & post
+    -  

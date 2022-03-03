@@ -283,3 +283,9 @@ Lesson 9: adding a link to the destroy action
 Lesson 10: Deleting post(3)
     -  Creating the Delete Feature
     -  
+
+
+## Ruby on Rails Study V Validating Posts
+Lesson 1: Validating a Post
+    -  Validating a post
+    -  

@@ -301,3 +301,6 @@ Lesson 3: Limiting the length of a post
     -  validating the number of characters e.g validates :content {length: {maximum: 140}}
     -  specify multile contents to validate e.g validates :content, {presence: true, {length: {maximum: 140}}}
     -  
+
+Lesson 4: Validating the save method
+    -  

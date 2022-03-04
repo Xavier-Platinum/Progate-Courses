@@ -296,3 +296,8 @@ Lesson 2: Validating Posts
     -  How to Create Validations e.g validates: :content, {presence: true}
     -  Checking the validations 
     -  
+
+Lesson 3: Limiting the length of a post
+    -  validating the number of characters e.g validates :content {length: {maximum: 140}}
+    -  specify multile contents to validate e.g validates :content, {presence: true, {length: {maximum: 140}}}
+    -  

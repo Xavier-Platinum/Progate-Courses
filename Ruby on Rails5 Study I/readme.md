@@ -289,3 +289,10 @@ Lesson 10: Deleting post(3)
 Lesson 1: Validating a Post
     -  Validating a post
     -  
+
+Lesson 2: Validating Posts
+    -  preventing empty posts.
+    -  validations
+    -  How to Create Validations e.g validates: :content, {presence: true}
+    -  Checking the validations 
+    -  

@@ -304,3 +304,8 @@ Lesson 3: Limiting the length of a post
 
 Lesson 4: Validating the save method
     -  
+
+Lesson 5: redirecting to the forms 
+    -  redirecting after validating
+    -  redirecting to different pages
+    -  

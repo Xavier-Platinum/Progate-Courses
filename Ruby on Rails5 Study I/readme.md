@@ -329,3 +329,9 @@ Lesson 8: Displaying flash messages
 
 Lesson 9: validations on the New Post page
     -  
+
+Lesson 10: Validations on the New Post Page(2)
+    -  Displaying error message and Failed posts
+    -  Dislaying error messgae and post content
+    -  Defining @@post in the new action
+    -  

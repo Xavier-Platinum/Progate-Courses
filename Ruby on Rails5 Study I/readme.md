@@ -347,3 +347,8 @@ Lesson 1: User model
 Lesson 2: Creating the table and the model
     -  creating the model and table e.g rails g model User name:string email:string then rails db:migrate
     -  
+
+Lesson 3: Creating a user
+    -  creating a user e.g user = User.new(name: "user name", email: "useremail@email.com")
+    -  user.save
+    -  

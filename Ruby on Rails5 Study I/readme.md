@@ -321,3 +321,8 @@ Lesson 7: Displaying error messages
     -  Displayig error message
     -  getting error messages e.g post.errors.full_messages
     -  displaying error messages e.g 
+
+Lesson 8: Displaying flash messages
+    -  flash
+    -  flash[:notice] = "Messages"
+    -  

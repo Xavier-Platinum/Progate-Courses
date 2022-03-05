@@ -326,3 +326,6 @@ Lesson 8: Displaying flash messages
     -  flash
     -  flash[:notice] = "Messages"
     -  
+
+Lesson 9: validations on the New Post page
+    -  

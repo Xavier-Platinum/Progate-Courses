@@ -309,3 +309,10 @@ Lesson 5: redirecting to the forms
     -  redirecting after validating
     -  redirecting to different pages
     -  
+
+Lesson 6: redislaying the content of the failed post 
+    -  why the content of the failed post disappears
+    -  dislaying the content of a failed post
+    -  the render method e.g render("/post/edit")
+    -  Using the redirect_to and render method
+    -  

@@ -338,3 +338,12 @@ Lesson 10: Validations on the New Post Page(2)
 
 Lesson 11: Flash for creating and deleting post
     -  Success messages
+
+## Ruby on rails study VI
+Lesson 1: User model
+    -  creating a user
+    -  
+
+Lesson 2: Creating the table and the model
+    -  creating the model and table e.g rails g model User name:string email:string then rails db:migrate
+    -  

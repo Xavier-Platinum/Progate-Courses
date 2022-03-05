@@ -352,3 +352,7 @@ Lesson 3: Creating a user
     -  creating a user e.g user = User.new(name: "user name", email: "useremail@email.com")
     -  user.save
     -  
+
+Lesson 4: Adding validations
+    -  checking the uniqueness of a value e.g validates :email, {uniqueness: true}
+    -  

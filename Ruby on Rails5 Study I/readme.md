@@ -335,3 +335,6 @@ Lesson 10: Validations on the New Post Page(2)
     -  Dislaying error messgae and post content
     -  Defining @@post in the new action
     -  
+
+Lesson 11: Flash for creating and deleting post
+    -  Success messages

@@ -316,3 +316,8 @@ Lesson 6: redislaying the content of the failed post
     -  the render method e.g render("/post/edit")
     -  Using the redirect_to and render method
     -  
+
+Lesson 7: Displaying error messages
+    -  Displayig error message
+    -  getting error messages e.g post.errors.full_messages
+    -  displaying error messages e.g 

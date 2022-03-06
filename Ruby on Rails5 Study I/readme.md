@@ -356,3 +356,8 @@ Lesson 3: Creating a user
 Lesson 4: Adding validations
     -  checking the uniqueness of a value e.g validates :email, {uniqueness: true}
     -  
+
+Lesson 5: Creating the users page
+    -  Creating the users features
+    -  Users page
+    -  rails g controller users index

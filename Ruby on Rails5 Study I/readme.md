@@ -372,3 +372,8 @@ Lesson 7: Creating a user
     -  Creating the Sign up Page
     -  How to Create a Form
     -  
+
+Lesson 8: Creating a user
+    -  Saving the User
+    -  name attribute e.g 
+    -  

@@ -366,3 +366,9 @@ LLesson 6: Displaying the Users
     -  Creating the User Details Page
     -  User details page
     -  
+
+Lesson 7: Creating a user
+    -  Creating the Sign up Feature
+    -  Creating the Sign up Page
+    -  How to Create a Form
+    -  

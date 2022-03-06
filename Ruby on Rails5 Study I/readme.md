@@ -361,3 +361,8 @@ Lesson 5: Creating the users page
     -  Creating the users features
     -  Users page
     -  rails g controller users index
+
+LLesson 6: Displaying the Users
+    -  Creating the User Details Page
+    -  User details page
+    -  

@@ -383,3 +383,7 @@ Lesson 9: Adding validation to create action
     -  initial value of the form
     -  Embedding ruby in the value Attribute
     -  
+
+Lesson 10: editng the user
+    -  Edit the account page
+    -  

@@ -377,3 +377,9 @@ Lesson 8: Creating a user
     -  Saving the User
     -  name attribute e.g 
     -  
+
+Lesson 9: Adding validation to create action
+    -  completeing the sign up feature
+    -  initial value of the form
+    -  Embedding ruby in the value Attribute
+    -  

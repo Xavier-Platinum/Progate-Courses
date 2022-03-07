@@ -485,3 +485,8 @@ Lesson 6: When user login request fails
     -  Displaying the error message
     -  Setting the default values 
     -  
+
+Lesson 7: Loggin In
+    -  Retaining the User Information
+    -  session variable e.g session[:user_id]
+    -  session (2) Variable e.g session[:key] = value session[:user_id]= @user.id-  Displaying the id of the current user

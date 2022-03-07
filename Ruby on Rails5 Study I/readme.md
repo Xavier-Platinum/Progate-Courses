@@ -389,3 +389,16 @@ Lesson 10: editng the user
     -  
 
 Lesson 11: Udating the changes
+
+## Ruby on rails study VII
+Lesson 1: Getting started
+    -  Displaying User Profile Images
+    -  Our Goal for This Lesson
+    -  How to Display a Profile Image
+    -  
+
+Lesson 2: Saving the image name
+    -  adding column that stores file names e.g image_name 
+    -  Creating Only the Migration File e.g rails g model User image_name:string  rails g migration
+    -  rails g migration e.g rails g migration add_image_name_to_users
+    -  

@@ -479,3 +479,9 @@ Lesson 5: Adding the login functionality
     -  identifying the user logging in
     -  The existence of the user
     -  
+
+Lesson 6: When user login request fails
+    -  When the User Does Not Exist
+    -  Displaying the error message
+    -  Setting the default values 
+    -  

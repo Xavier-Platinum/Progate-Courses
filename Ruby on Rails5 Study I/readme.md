@@ -434,3 +434,11 @@ Lesson 6: Sending images
 Lesson 7: Creating a file
     -  Creating a File using Ruby Code e.g "File.write(file_location, file_content)"
     -  File.write("public/sample.txt", "Hello World")
+
+Lesson 8: Saving images
+    -  Saving the Sent Image
+    -  Saving the Filename to the Database
+    -  Receiving the Image params[:image]
+    -  Saving the Image
+    -  Checking If an Image Exists
+    -  

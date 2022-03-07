@@ -430,3 +430,7 @@ Lesson 6: Sending images
     -  select image button
     -  multipart : true
     -  
+
+Lesson 7: Creating a file
+    -  Creating a File using Ruby Code e.g "File.write(file_location, file_content)"
+    -  File.write("public/sample.txt", "Hello World")

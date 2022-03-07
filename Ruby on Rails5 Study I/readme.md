@@ -424,3 +424,9 @@ Lesson 5: Displaying profile images
     -  Displaying the Image on the User Details Page e.g /user_images/#{@user.image_name}
     -  Displaying the Users Page
     -  
+
+Lesson 6: Sending images
+    -  uploading images
+    -  select image button
+    -  multipart : true
+    -  

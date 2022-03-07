@@ -466,3 +466,10 @@ Lesson 3: Adding the password column
     -  Adding the password column e.g rails g migration add_password_to_users then rails db:migrate
     -  setting the validation e.g validates :password, {presence: true}
     -  
+
+Lesson 4: Sending the login data
+    -  Sending form values
+    -  Adding Routes and actions
+    -  Setting form destination
+    -  Routes for the login Action e.g <%= form_tag("/login") do %> <%end%>
+    -  

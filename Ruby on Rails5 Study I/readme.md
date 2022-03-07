@@ -414,3 +414,8 @@ Lesson 3: Editing the migrations file
         add_column :table, :column_name, :data type. After adding the instructions to the change method, you can update the database with rails db:migrate.
     </p>
     -  
+
+Lesson 4: setting the default image
+    -  Preparing the default image
+    -  saving the default image when a user signs up
+    -  

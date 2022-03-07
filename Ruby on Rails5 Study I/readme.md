@@ -454,3 +454,10 @@ Lesson 1: Getting started
         .  Limit access for users who are not logged in
         .  Prevent editing accounts of other users
     -  
+
+Lesson 2: The Login page 
+    -  Creating the Login Feature
+    -  The flow of logging in
+    -  Creating the login page e.g get "login" => "users#login_form"
+    -  Adding a form for password
+    -  

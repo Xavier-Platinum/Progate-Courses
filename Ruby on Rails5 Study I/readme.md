@@ -473,3 +473,9 @@ Lesson 4: Sending the login data
     -  Setting form destination
     -  Routes for the login Action e.g <%= form_tag("/login") do %> <%end%>
     -  
+
+Lesson 5: Adding the login functionality
+    -  Identifying the User
+    -  identifying the user logging in
+    -  The existence of the user
+    -  

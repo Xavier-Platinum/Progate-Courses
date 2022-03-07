@@ -442,3 +442,15 @@ Lesson 8: Saving images
     -  Saving the Image
     -  Checking If an Image Exists
     -  
+
+##  Ruby on rails study VII
+Lesson 1: Getting started
+    -  Creating the Login Feature
+    -  What is Login?
+    -  Our Goal for This Lesson
+        .  Login
+        .  Logout
+        .  Show name of the current user
+        .  Limit access for users who are not logged in
+        .  Prevent editing accounts of other users
+    -  

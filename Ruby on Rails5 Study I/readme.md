@@ -402,3 +402,15 @@ Lesson 2: Saving the image name
     -  Creating Only the Migration File e.g rails g model User image_name:string  rails g migration
     -  rails g migration e.g rails g migration add_image_name_to_users
     -  
+
+Lesson 3: Editing the migrations file 
+    -  rails db:migrate
+    -  Structure of a Migration File
+    -  "rails g model" and the Migration File
+    -  Migration File that Adds a Column e.g add_column :table, :column_name, :data type
+    <p>
+        This time, you need to write the change method by yourself.
+        The following command will add a column to the table:
+        add_column :table, :column_name, :data type. After adding the instructions to the change method, you can update the database with rails db:migrate.
+    </p>
+    -  

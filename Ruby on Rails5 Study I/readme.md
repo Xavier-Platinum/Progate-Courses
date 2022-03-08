@@ -490,3 +490,11 @@ Lesson 7: Loggin In
     -  Retaining the User Information
     -  session variable e.g session[:user_id]
     -  session (2) Variable e.g session[:key] = value session[:user_id]= @user.id-  Displaying the id of the current user
+
+Lesson 8: logging out
+    -  Creating the Logout Feature
+    -  Emptying session[:user_id] Value e.g session[:user_id] = nil
+    -  Creating the logout Action
+    -  get and post
+    -  Changing the Header
+    -  

@@ -508,3 +508,11 @@ Lesson 10: Displaying the user's name
     -  Displaying the user's name <% currentUser = User.find_by(id: session[:user_id]%>
     -  Getting a User That Is Currently Logged In
     - 
+
+Lesson 11: Moving variables to the action
+    -  Defining the Common Variable in Action
+    -  How application.html.erb Works
+    -  Defining the Variable in Every Action
+    -  before_action 
+    - Application Controller
+    -  

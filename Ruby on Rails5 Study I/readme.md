@@ -516,3 +516,10 @@ Lesson 11: Moving variables to the action
     -  before_action 
     - Application Controller
     -  
+
+Lesson 12: Authenticating a user
+    -  Restricting Access e.g use before_action to check @current_user =  nil
+    -  Creating authenticate_user Method
+    -  Running before_action in Specified Actions
+    -  @current_user
+    -  

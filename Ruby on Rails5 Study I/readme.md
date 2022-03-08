@@ -528,3 +528,8 @@ Lesson 13: Authenticating a user(2)
     -  Pages That Can't Be Accessed by Logged in Users
     -  forbid_login_user
     -  
+
+Lesson 14: Restricting the edit account page
+    -  link to edit account page
+    -  Hiding the Edit Link
+    -  

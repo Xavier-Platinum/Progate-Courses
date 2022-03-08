@@ -523,3 +523,8 @@ Lesson 12: Authenticating a user
     -  Running before_action in Specified Actions
     -  @current_user
     -  
+
+Lesson 13: Authenticating a user(2)
+    -  Pages That Can't Be Accessed by Logged in Users
+    -  forbid_login_user
+    -  

@@ -533,3 +533,8 @@ Lesson 14: Restricting the edit account page
     -  link to edit account page
     -  Hiding the Edit Link
     -  
+
+Lesson 15: Authenticating the "edit" Action
+    -  The ensure_correct_user Method
+    -  to_i Method
+    -  

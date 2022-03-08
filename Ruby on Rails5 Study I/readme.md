@@ -503,3 +503,8 @@ Lesson 9: Logging in after Signing Up
     -  Saving the Password When Signing up
     -  Logging in When Signing up
     -  
+
+Lesson 10: Displaying the user's name
+    -  Displaying the user's name <% currentUser = User.find_by(id: session[:user_id]%>
+    -  Getting a User That Is Currently Logged In
+    - 

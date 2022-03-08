@@ -498,3 +498,8 @@ Lesson 8: logging out
     -  get and post
     -  Changing the Header
     -  
+
+Lesson 9: Logging in after Signing Up
+    -  Saving the Password When Signing up
+    -  Logging in When Signing up
+    -  

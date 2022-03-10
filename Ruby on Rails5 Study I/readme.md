@@ -538,3 +538,9 @@ Lesson 15: Authenticating the "edit" Action
     -  The ensure_correct_user Method
     -  to_i Method
     -  
+
+## Ruby on rails study IX
+Lesson 1: Associating Posts with the User model
+    -  Associating Posts with a User
+    -  Our Goal for This Lesson
+    -  

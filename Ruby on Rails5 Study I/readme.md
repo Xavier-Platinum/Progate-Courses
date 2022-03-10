@@ -544,3 +544,10 @@ Lesson 1: Associating Posts with the User model
     -  Associating Posts with a User
     -  Our Goal for This Lesson
     -  
+
+Lesson 2: Adding the user_id column to Posts Table
+    -  Associating Posts with Users
+    -  Associating Posts and Users with user_id
+    -  Adding the user_id Column in the posts Table e.g rails g migration add_user_id_to_post
+    -  Validation for user_id
+    -  

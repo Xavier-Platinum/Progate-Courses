@@ -551,3 +551,8 @@ Lesson 2: Adding the user_id column to Posts Table
     -  Adding the user_id Column in the posts Table e.g rails g migration add_user_id_to_post
     -  Validation for user_id
     -  
+
+Lesson 3: Associating New Postswith thelogged in User
+    -  Associating New Posts with a User
+    -  Saving the id of the User Who Created the Post
+    -  

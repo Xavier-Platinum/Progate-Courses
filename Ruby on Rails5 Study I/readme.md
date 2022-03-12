@@ -600,3 +600,9 @@ Lesson 12: Preventing Others from Editing Your Post (2)
     -  Preventing Others from Editing Your Post (2)
     -  Validating the Editing and Deleting
     -  
+
+## Ruby on Rails study X
+Lesson 1: Getting started 
+    -  creating the like functionality
+    -  Our goal
+    -  

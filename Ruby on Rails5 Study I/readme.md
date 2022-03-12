@@ -567,3 +567,10 @@ Lesson 5: Defining an Instance Method
     -  Defining Instance Methods in Models
     -  Defining the user Instance Method in the Post Model
     -  
+
+Lesson 6: Using instance method
+    -  
+
+Lesson 7: Displaying the User's Name on the Posts Page
+    -  Displaying the User's Name on the Posts Page
+    -  

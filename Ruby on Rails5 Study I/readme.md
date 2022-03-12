@@ -561,3 +561,9 @@ Lesson 4: Displaying User's name for each post
     -  Getting the User's Information from user_id
     -  Displaying User's Name and Images
     -  
+
+Lesson 5: Defining an Instance Method
+    -  Defining an Instance Method
+    -  Defining Instance Methods in Models
+    -  Defining the user Instance Method in the Post Model
+    -  

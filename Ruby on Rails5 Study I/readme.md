@@ -590,3 +590,8 @@ Lesson 10: Displaying Posts on the "User Details" Page
     -  Displaying Posts on the User Details Page (3)
     -  Displaying the Posts
     -  
+
+Lesson 11: Preventing others from editing your Post
+    -  Preventing others from editing your Post
+    -  Displaying the Edit/Delete Links Only for Your Own Posts
+    -  

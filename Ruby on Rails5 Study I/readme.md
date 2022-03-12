@@ -613,3 +613,8 @@ Lesson 2: The like model
     -  Creating the likes Table e.g rails g model Like user_id:integer post_id:integer
     -  Adding the Validations
     -  
+
+Lesson 3: Adding columns to the like Table
+    -  Creating the Like Data
+    -  Creating the Data with rails console e.g like = Like.new (user_id: 1, post_id: 2)
+    -  

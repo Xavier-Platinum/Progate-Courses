@@ -630,3 +630,9 @@ Lesson 5: The likes controller
     -  Creating the Likes Controller
     -  The create Action
     -  
+
+Lesson 6: The "like!" button
+    -  Creating the "Like!" Button
+    -  Completing the create Action
+    -  Preparing the Link to the create Action
+    -  

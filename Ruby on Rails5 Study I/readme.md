@@ -595,3 +595,8 @@ Lesson 11: Preventing others from editing your Post
     -  Preventing others from editing your Post
     -  Displaying the Edit/Delete Links Only for Your Own Posts
     -  
+
+Lesson 12: Preventing Others from Editing Your Post (2)
+    -  Preventing Others from Editing Your Post (2)
+    -  Validating the Editing and Deleting
+    -  

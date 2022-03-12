@@ -585,3 +585,8 @@ Lesson 9: Getting the user's Posts
     -  Displaying Posts on the User Details Page (2)
     -  Defining the posts Instance Method in the User Model
     -  
+
+Lesson 10: Displaying Posts on the "User Details" Page
+    -  Displaying Posts on the User Details Page (3)
+    -  Displaying the Posts
+    -  

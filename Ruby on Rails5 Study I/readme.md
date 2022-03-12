@@ -624,3 +624,9 @@ Lesson 4: Displaying "Liked!" or "Not Liked!"
     -  "Liked!" or "Not Liked!"
     -  The Condition for "Liked!"
     -  
+
+Lesson 5: The likes controller
+    -  Creating the "Like!" Button
+    -  Creating the Likes Controller
+    -  The create Action
+    -  

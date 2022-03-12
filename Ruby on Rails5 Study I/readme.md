@@ -578,5 +578,10 @@ Lesson 7: Displaying the User's Name on the Posts Page
 Lesson 8: The where method
     -  Displaying Posts on the User Details Page
     -  Getting Multiple User-Associated Posts
-    -  The where Method
+    -  The where Method e.g post =  Post.where(user_id: 1)
+    -  
+
+Lesson 9: Getting the user's Posts
+    -  Displaying Posts on the User Details Page (2)
+    -  Defining the posts Instance Method in the User Model
     -  

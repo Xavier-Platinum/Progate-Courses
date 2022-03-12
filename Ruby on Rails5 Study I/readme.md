@@ -606,3 +606,10 @@ Lesson 1: Getting started
     -  creating the like functionality
     -  Our goal
     -  
+
+Lesson 2: The like model
+    -  How to create the like feature
+    -  The Role of the likes Table
+    -  Creating the likes Table e.g rails g model Like user_id:integer post_id:integer
+    -  Adding the Validations
+    -  

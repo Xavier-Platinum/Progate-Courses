@@ -666,3 +666,8 @@ Lesson 10: Displaying the number of likes
 Lesson 11: Displaying the Liked Posts
     -  Creating the likes Action
     -  
+
+Lesson 12: Displaying the Liked Posts (2)
+    -  Completing the likes Action
+    -  The View for the likes Action
+    -  

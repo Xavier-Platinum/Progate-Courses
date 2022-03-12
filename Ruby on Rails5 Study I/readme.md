@@ -671,3 +671,10 @@ Lesson 12: Displaying the Liked Posts (2)
     -  Completing the likes Action
     -  The View for the likes Action
     -  
+
+## Ruby on Rails5 XI
+Lesson 1: Handling Passwords Safely
+    -  Learn How to Handle Passwords Safely
+    -  Things to Keep in Mind
+    -  Safe Passwords
+    -  

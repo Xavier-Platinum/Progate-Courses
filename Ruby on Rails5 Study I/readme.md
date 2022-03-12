@@ -618,3 +618,9 @@ Lesson 3: Adding columns to the like Table
     -  Creating the Like Data
     -  Creating the Data with rails console e.g like = Like.new (user_id: 1, post_id: 2)
     -  
+
+Lesson 4: Displaying "Liked!" or "Not Liked!"
+    -  Displaying Likes on Posts
+    -  "Liked!" or "Not Liked!"
+    -  The Condition for "Liked!"
+    -  

@@ -678,3 +678,11 @@ Lesson 1: Handling Passwords Safely
     -  Things to Keep in Mind
     -  Safe Passwords
     -  
+
+Lesson 2: Editing the Gemfile
+    -  gem
+    -  A gem is a third-party library you can use with Ruby. There are various gems such as "the search functionality gem", or "the encrypt passwords gem". This time, we'll use bcrypt, which is a gem to encrypt passwords.
+    -  Gemfile
+    -  In Rails, there's a file named Gemfile where you write the gems you want to install, like gem 'gem_name'. Some gems are already written when you run the rails new command. When you install gems, the Gemfile.lock file is automatically updated.
+    -  Gem Versions
+    -  Installing bcrypt 

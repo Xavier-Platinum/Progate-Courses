@@ -655,3 +655,10 @@ Lesson 9: Using an Icon for the like button(2)
     -  Using the link_to Method with HTML Elements
     -  Displaying the Heart Icon with the link_to Method
     -  
+
+Lesson 10: Displaying the number of likes
+    -  Displaying the Number of Likes
+    -  The count Method
+            Data.all.count counting all docs
+            Data.where(id: id).count count specified id docs
+    -  

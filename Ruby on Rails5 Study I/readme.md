@@ -574,3 +574,9 @@ Lesson 6: Using instance method
 Lesson 7: Displaying the User's Name on the Posts Page
     -  Displaying the User's Name on the Posts Page
     -  
+
+Lesson 8: The where method
+    -  Displaying Posts on the User Details Page
+    -  Getting Multiple User-Associated Posts
+    -  The where Method
+    -  

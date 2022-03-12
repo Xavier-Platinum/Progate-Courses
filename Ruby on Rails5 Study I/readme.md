@@ -648,3 +648,10 @@ Lesson 8: Using an Icon for the like
     -  Font Awesome
     -  Using Font Awesome
     -  
+
+Lesson 9: Using an Icon for the like button(2)
+    -  Creating a Like Button Icon (2)
+    -  Displaying the Heart Icon
+    -  Using the link_to Method with HTML Elements
+    -  Displaying the Heart Icon with the link_to Method
+    -  

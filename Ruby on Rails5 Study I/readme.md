@@ -662,3 +662,7 @@ Lesson 10: Displaying the number of likes
             Data.all.count counting all docs
             Data.where(id: id).count count specified id docs
     -  
+
+Lesson 11: Displaying the Liked Posts
+    -  Creating the likes Action
+    -  

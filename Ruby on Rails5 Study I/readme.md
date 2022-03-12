@@ -556,3 +556,8 @@ Lesson 3: Associating New Postswith thelogged in User
     -  Associating New Posts with a User
     -  Saving the id of the User Who Created the Post
     -  
+
+Lesson 4: Displaying User's name for each post
+    -  Getting the User's Information from user_id
+    -  Displaying User's Name and Images
+    -  

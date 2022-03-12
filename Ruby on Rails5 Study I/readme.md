@@ -636,3 +636,15 @@ Lesson 6: The "like!" button
     -  Completing the create Action
     -  Preparing the Link to the create Action
     -  
+
+Lesson 7: Removing likes 
+    -  Removing the likes
+    -  The destroy Action
+    -  Creating a Link to the destroy Action
+    -  
+
+Lesson 8: Using an Icon for the like
+    -  Creating a Like Button Icon
+    -  Font Awesome
+    -  Using Font Awesome
+    -  

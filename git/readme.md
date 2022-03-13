@@ -56,3 +56,7 @@ Let's learn Git with Ken the Ninja and Master Wooly!
 10. git status(2)
     1. Checking Added Files
     2. 
+
+11. Commit Messages
+    1. Writing Good Commit Messages
+    2. 

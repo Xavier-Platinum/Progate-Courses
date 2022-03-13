@@ -27,3 +27,7 @@ Let's learn Git with Ken the Ninja and Master Wooly!
     2. Setting up a Remote
     3. Adding a Remote -->> git remote add origin url
     4. 
+
+5. Uploading Files
+    1. Uploading Files to a Remote
+    2. 

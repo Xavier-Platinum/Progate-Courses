@@ -697,3 +697,12 @@ Lesson 4: Adding password_digest
     -  Creating the Migration File e.g rails g migration change_users_columns, add_column :users, :password_digest, :string
     -  Removing the password Column e.g remove_colum :users, :password, :string
     -  
+
+Lesson 5: The password column
+    -  password Column
+    -  password and password_digest
+    -       user = User.find_by(id: 1)
+            user.password = "ninja0310"
+            user.password_digest
+            user.save
+    

@@ -706,3 +706,7 @@ Lesson 5: The password column
             user.password_digest
             user.save
     
+Lesson 6: Using encrypted passwords
+    -  Log in with Encrypted Passwords
+    -  Login with Encrypted Passwords
+    -  authenticate Method e.g 

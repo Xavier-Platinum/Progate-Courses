@@ -39,3 +39,9 @@ Let's learn Git with Ken the Ninja and Master Wooly!
 7. Git flow Review
     1. Practicing the Team Development Workflow
     2. 
+
+8. git status
+    1. Mastering Git
+    2. Important Points About Git
+    3. Recognizing Modified Files
+    4. 

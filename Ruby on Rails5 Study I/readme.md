@@ -690,3 +690,10 @@ Lesson 2: Editing the Gemfile
 Lesson 3: has_secure_password
     -  has_secure_password
     -  
+
+Lesson 4: Adding password_digest
+    -  Adding the password_digest Column
+    -  Changing Multiple Columns
+    -  Creating the Migration File e.g rails g migration change_users_columns, add_column :users, :password_digest, :string
+    -  Removing the password Column e.g remove_colum :users, :password, :string
+    -  

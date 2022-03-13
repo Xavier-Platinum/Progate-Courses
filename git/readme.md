@@ -60,3 +60,8 @@ Let's learn Git with Ken the Ninja and Master Wooly!
 11. Commit Messages
     1. Writing Good Commit Messages
     2. 
+
+12. git log
+    1. git log
+    Great question, again! Using the command git log, you or anyone else can view the commits.
+    2. git log -p

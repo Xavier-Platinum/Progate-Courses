@@ -686,3 +686,7 @@ Lesson 2: Editing the Gemfile
     -  In Rails, there's a file named Gemfile where you write the gems you want to install, like gem 'gem_name'. Some gems are already written when you run the rails new command. When you install gems, the Gemfile.lock file is automatically updated.
     -  Gem Versions
     -  Installing bcrypt 
+
+Lesson 3: has_secure_password
+    -  has_secure_password
+    -  

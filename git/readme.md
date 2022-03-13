@@ -31,3 +31,9 @@ Let's learn Git with Ken the Ninja and Master Wooly!
 5. Uploading Files
     1. Uploading Files to a Remote
     2. 
+
+6. Downloading Files
+    1. Downloading Files from a Remote -->> git pull origin master
+    2. 
+
+7. 

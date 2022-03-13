@@ -710,3 +710,9 @@ Lesson 6: Using encrypted passwords
     -  Log in with Encrypted Passwords
     -  Login with Encrypted Passwords
     -  authenticate Method e.g 
+
+## Docs
+["https://docs.google.com/document/d/172kN4Y84FMBpN4BveYfwVuRPnyuKOFkXHxtNH-FvmmQ/edit?usp=sharing"]
+
+()["https://docs.google.com/document/d/1ZDkqqymRVoGnaoAcj1kV0i_cVdWoxtLNt9qQQlkp9F4/edit?usp=sharing"]
+[Docs]["https://docs.google.com/document/d/1I7FTFkx6Q5Re4FmB29Uw4QExnrE50k0JBGuL3Vj9-h8/edit?usp=sharing"]

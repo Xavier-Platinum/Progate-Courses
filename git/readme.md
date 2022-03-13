@@ -52,3 +52,7 @@ Let's learn Git with Ken the Ninja and Master Wooly!
     2. Viewing git diff
     Excellent question! Here is a command to see the content changes: git diff.
     3. 
+
+10. git status(2)
+    1. Checking Added Files
+    2. 

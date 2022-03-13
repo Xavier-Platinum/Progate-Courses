@@ -17,3 +17,8 @@ Let's learn Git with Ken the Ninja and Master Wooly!
     1. The Role of Git
     2. Selecting Files to Share -->> git add index.html
     3. 
+3. Saving the added Files
+    1. Recording Selected Files
+    2. git commit e.g git commit -m "message"
+    3. Team Development Workflow
+    4. 

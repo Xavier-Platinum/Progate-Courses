@@ -36,4 +36,6 @@ Let's learn Git with Ken the Ninja and Master Wooly!
     1. Downloading Files from a Remote -->> git pull origin master
     2. 
 
-7. 
+7. Git flow Review
+    1. Practicing the Team Development Workflow
+    2. 

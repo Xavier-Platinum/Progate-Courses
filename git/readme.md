@@ -22,3 +22,8 @@ Let's learn Git with Ken the Ninja and Master Wooly!
     2. git commit e.g git commit -m "message"
     3. Team Development Workflow
     4. 
+4. Adding a remote repository
+    1. The Sharing Process
+    2. Setting up a Remote
+    3. Adding a Remote -->> git remote add origin url
+    4. 

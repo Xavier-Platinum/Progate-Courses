@@ -45,3 +45,10 @@ Let's learn Git with Ken the Ninja and Master Wooly!
     2. Important Points About Git
     3. Recognizing Modified Files
     4. 
+
+9. git diff
+    1. Recognizing Content Changes
+    git status is quite useful! Can I view the content of the changes as well?
+    2. Viewing git diff
+    Excellent question! Here is a command to see the content changes: git diff.
+    3. 
